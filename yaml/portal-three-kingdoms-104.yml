@@ -1,0 +1,107 @@
+---
+object: card
+id: 33a1fe45-52d2-4c50-bedc-eee156ab69c8
+oracle_id: 3a3cec13-4766-40d2-88e0-41bcdd5249e9
+multiverse_ids:
+- 10637
+tcgplayer_id: 435
+cardmarket_id: 11297
+name: Burning of Xinye
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/33a1fe45-52d2-4c50-bedc-eee156ab69c8
+scryfall_uri: https://scryfall.com/card/ptk/104/burning-of-xinye?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.jpg?1562256064
+  normal: https://cards.scryfall.io/normal/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.jpg?1562256064
+  large: https://cards.scryfall.io/large/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.jpg?1562256064
+  png: https://cards.scryfall.io/png/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.png?1562256064
+  art_crop: https://cards.scryfall.io/art_crop/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.jpg?1562256064
+  border_crop: https://cards.scryfall.io/border_crop/front/3/3/33a1fe45-52d2-4c50-bedc-eee156ab69c8.jpg?1562256064
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: You destroy four lands you control, then target opponent destroys four
+  lands they control. Then Burning of Xinye deals 4 damage to each creature.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/33a1fe45-52d2-4c50-bedc-eee156ab69c8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a3cec13-4766-40d2-88e0-41bcdd5249e9&unique=prints
+collector_number: '104'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yang Hong
+artist_ids:
+- 4a9bbac6-55de-440a-bb65-58aedc3380ed
+illustration_id: 88f1276a-aa84-4f93-be60-db0b5d534841
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18627
+penny_rank: 1130
+prices:
+  usd: '65.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '20.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10637
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Burning+of+Xinye&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Burning+of+Xinye&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Burning+of+Xinye
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/435?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Burning+of+Xinye&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Burning+of+Xinye&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

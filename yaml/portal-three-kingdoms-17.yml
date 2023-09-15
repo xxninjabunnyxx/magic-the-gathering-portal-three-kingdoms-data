@@ -1,0 +1,108 @@
+---
+object: card
+id: 11dca9ba-b27f-4af8-9962-3794e743886f
+oracle_id: 265236d1-d96c-4424-835e-a0fe91c41170
+multiverse_ids:
+- 10500
+tcgplayer_id: 512
+cardmarket_id: 11210
+name: Ravages of War
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/11dca9ba-b27f-4af8-9962-3794e743886f
+scryfall_uri: https://scryfall.com/card/ptk/17/ravages-of-war?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.jpg?1562255837
+  normal: https://cards.scryfall.io/normal/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.jpg?1562255837
+  large: https://cards.scryfall.io/large/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.jpg?1562255837
+  png: https://cards.scryfall.io/png/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.png?1562255837
+  art_crop: https://cards.scryfall.io/art_crop/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.jpg?1562255837
+  border_crop: https://cards.scryfall.io/border_crop/front/1/1/11dca9ba-b27f-4af8-9962-3794e743886f.jpg?1562255837
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Destroy all lands.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/11dca9ba-b27f-4af8-9962-3794e743886f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A265236d1-d96c-4424-835e-a0fe91c41170&unique=prints
+collector_number: '17'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Thorn bushes spring up wherever the army has passed. Lean years follow in the wake of a great war."
+  —Lao Tzu, *Tao Te Ching* (trans. Feng and English)
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Fang Yue
+artist_ids:
+- b97f06c4-f977-4896-a676-c7dcd3d30842
+illustration_id: 446e7619-2d16-4d8c-b616-cf3261324a75
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10119
+prices:
+  usd: '356.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '64.75'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10500
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ravages+of+War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ravages+of+War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ravages+of+War
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/512?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ravages+of+War&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ravages+of+War&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

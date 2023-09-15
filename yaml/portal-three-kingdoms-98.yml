@@ -1,0 +1,112 @@
+---
+object: card
+id: fb6e5814-e1b5-48d2-9c4f-62b5727f333f
+oracle_id: 5ea4d1d7-219b-4842-99ea-291842baca0d
+multiverse_ids:
+- 10564
+tcgplayer_id: 600
+cardmarket_id: 11291
+name: Zodiac Rat
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/fb6e5814-e1b5-48d2-9c4f-62b5727f333f
+scryfall_uri: https://scryfall.com/card/ptk/98/zodiac-rat?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012
+  normal: https://cards.scryfall.io/normal/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012
+  large: https://cards.scryfall.io/large/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012
+  png: https://cards.scryfall.io/png/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.png?1562258012
+  art_crop: https://cards.scryfall.io/art_crop/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012
+  border_crop: https://cards.scryfall.io/border_crop/front/f/b/fb6e5814-e1b5-48d2-9c4f-62b5727f333f.jpg?1562258012
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Creature — Rat
+oracle_text: Swampwalk (This creature can't be blocked as long as defending player
+  controls a Swamp.)
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Landwalk
+- Swampwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fb6e5814-e1b5-48d2-9c4f-62b5727f333f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5ea4d1d7-219b-4842-99ea-291842baca0d&unique=prints
+collector_number: '98'
+digital: false
+rarity: common
+flavor_text: '" . . . Cao Pi, Cao Rui, Fang, Mao, and briefly, Huan— / The Sima took
+  the empire in their turn. . . ."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Qi Baocheng
+artist_ids:
+- fa823a67-0c72-495c-b87e-ea3beecf58bc
+illustration_id: a88c465b-157a-4f17-849d-abdb3f5f7b7e
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16195
+prices:
+  usd: '31.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '13.19'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10564
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zodiac+Rat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zodiac+Rat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Zodiac+Rat
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/600?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zodiac+Rat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zodiac+Rat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

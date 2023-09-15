@@ -1,0 +1,108 @@
+---
+object: card
+id: 7727e7b5-39a3-46ba-935b-ee093c694c38
+oracle_id: 02b5acf3-47cb-4d39-9307-e02656f1879b
+multiverse_ids:
+- 10602
+tcgplayer_id: 541
+cardmarket_id: 11246
+name: Strategic Planning
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/7727e7b5-39a3-46ba-935b-ee093c694c38
+scryfall_uri: https://scryfall.com/card/ptk/53/strategic-planning?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.jpg?1562257020
+  normal: https://cards.scryfall.io/normal/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.jpg?1562257020
+  large: https://cards.scryfall.io/large/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.jpg?1562257020
+  png: https://cards.scryfall.io/png/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.png?1562257020
+  art_crop: https://cards.scryfall.io/art_crop/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.jpg?1562257020
+  border_crop: https://cards.scryfall.io/border_crop/front/7/7/7727e7b5-39a3-46ba-935b-ee093c694c38.jpg?1562257020
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Look at the top three cards of your library. Put one of them into your
+  hand and the rest into your graveyard.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7727e7b5-39a3-46ba-935b-ee093c694c38/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02b5acf3-47cb-4d39-9307-e02656f1879b&unique=prints
+collector_number: '53'
+digital: false
+rarity: uncommon
+flavor_text: '"Plans evolved within the tent decide a victory 1,000 *li* away."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zhang Jiazhen
+artist_ids:
+- 1b79deff-eaef-42be-9692-f79b1c45b325
+illustration_id: d4b74ed4-e99d-4d3f-86bb-669746b14a19
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3940
+penny_rank: 1094
+prices:
+  usd: '18.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '13.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10602
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Strategic+Planning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Strategic+Planning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Strategic+Planning
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/541?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Strategic+Planning&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Strategic+Planning&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

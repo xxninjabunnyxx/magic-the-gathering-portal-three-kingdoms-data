@@ -1,0 +1,107 @@
+---
+object: card
+id: a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f
+oracle_id: 75fffc1b-db65-4c6b-9503-db50fccb837c
+multiverse_ids:
+- 10621
+tcgplayer_id: 433
+cardmarket_id: 11230
+name: Broken Dam
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f
+scryfall_uri: https://scryfall.com/card/ptk/37/broken-dam?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502
+  normal: https://cards.scryfall.io/normal/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502
+  large: https://cards.scryfall.io/large/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502
+  png: https://cards.scryfall.io/png/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.png?1562257502
+  art_crop: https://cards.scryfall.io/art_crop/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502
+  border_crop: https://cards.scryfall.io/border_crop/front/a/0/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f.jpg?1562257502
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Tap one or two target creatures without horsemanship.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a0f7b8b1-f1dc-46a3-8f4a-c6181e8a049f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75fffc1b-db65-4c6b-9503-db50fccb837c&unique=prints
+collector_number: '37'
+digital: false
+rarity: common
+flavor_text: Using nature to their advantage, wise Three Kingdoms generals often let
+  dammed rivers loose to destroy their enemies.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jiang Zhuqing
+artist_ids:
+- 87a61aec-90d5-4636-b73b-49295754d89a
+illustration_id: c0a00ebb-cd04-4133-920f-f8cf1e0d6b4d
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20861
+prices:
+  usd: '5.91'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.90'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10621
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Broken+Dam&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Broken+Dam&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Broken+Dam
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/433?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Broken+Dam&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Broken+Dam&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

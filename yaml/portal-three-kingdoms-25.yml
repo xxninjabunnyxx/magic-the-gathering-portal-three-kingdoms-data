@@ -1,0 +1,111 @@
+---
+object: card
+id: c9c3be7a-82a8-411c-bfe2-16749ada1244
+oracle_id: 0fef6729-b044-4daf-834a-ac8c9711ad8a
+multiverse_ids:
+- 10502
+tcgplayer_id: 529
+cardmarket_id: 11218
+name: Shu General
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/c9c3be7a-82a8-411c-bfe2-16749ada1244
+scryfall_uri: https://scryfall.com/card/ptk/25/shu-general?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.jpg?1562257538
+  normal: https://cards.scryfall.io/normal/front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.jpg?1562257538
+  large: https://cards.scryfall.io/large/front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.jpg?1562257538
+  png: https://cards.scryfall.io/png/front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.png?1562257538
+  art_crop: https://cards.scryfall.io/art_crop/front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.jpg?1562257538
+  border_crop: https://cards.scryfall.io/border_crop/front/c/9/c9c3be7a-82a8-411c-bfe2-16749ada1244.jpg?1562257538
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Human Soldier
+oracle_text: Vigilance; horsemanship (This creature can't be blocked except by creatures
+  with horsemanship.)
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Vigilance
+- Horsemanship
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c9c3be7a-82a8-411c-bfe2-16749ada1244/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0fef6729-b044-4daf-834a-ac8c9711ad8a&unique=prints
+collector_number: '25'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Li Xiaohua
+artist_ids:
+- 8f0eb2c7-8f98-4ad3-93a5-19666c4e5fb2
+illustration_id: 1dc681e7-01dc-49bf-b319-a234f5ffe618
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21388
+penny_rank: 12805
+prices:
+  usd: '4.59'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.85'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10502
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shu+General&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shu+General&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shu+General
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/529?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shu+General&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shu+General&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

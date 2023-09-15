@@ -1,0 +1,133 @@
+---
+object: card
+id: b804c879-fe23-4d7f-9e7d-1da41b5c0973
+oracle_id: f46416cc-0c3d-4d90-bdcb-910c5d4a2014
+multiverse_ids:
+- 10499
+tcgplayer_id: 486
+cardmarket_id: 11204
+name: Liu Bei, Lord of Shu
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/b804c879-fe23-4d7f-9e7d-1da41b5c0973
+scryfall_uri: https://scryfall.com/card/ptk/11/liu-bei-lord-of-shu?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.jpg?1562257522
+  normal: https://cards.scryfall.io/normal/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.jpg?1562257522
+  large: https://cards.scryfall.io/large/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.jpg?1562257522
+  png: https://cards.scryfall.io/png/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.png?1562257522
+  art_crop: https://cards.scryfall.io/art_crop/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.jpg?1562257522
+  border_crop: https://cards.scryfall.io/border_crop/front/b/8/b804c879-fe23-4d7f-9e7d-1da41b5c0973.jpg?1562257522
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Legendary Creature — Human Soldier
+oracle_text: |-
+  Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+  Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior.
+power: '2'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Horsemanship
+all_parts:
+- object: related_card
+  id: 2a58ec38-f1dc-4c69-9d26-a4599bce586a
+  component: combo_piece
+  name: Zhang Fei, Fierce Warrior
+  type_line: Legendary Creature — Human Soldier Warrior
+  uri: https://api.scryfall.com/cards/2a58ec38-f1dc-4c69-9d26-a4599bce586a
+- object: related_card
+  id: b804c879-fe23-4d7f-9e7d-1da41b5c0973
+  component: combo_piece
+  name: Liu Bei, Lord of Shu
+  type_line: Legendary Creature — Human Soldier
+  uri: https://api.scryfall.com/cards/b804c879-fe23-4d7f-9e7d-1da41b5c0973
+- object: related_card
+  id: 1575fadf-cd5c-4b4f-8965-c006e571334b
+  component: combo_piece
+  name: Guan Yu, Sainted Warrior
+  type_line: Legendary Creature — Human Soldier Warrior
+  uri: https://api.scryfall.com/cards/1575fadf-cd5c-4b4f-8965-c006e571334b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b804c879-fe23-4d7f-9e7d-1da41b5c0973/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af46416cc-0c3d-4d90-bdcb-910c5d4a2014&unique=prints
+collector_number: '11'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Only wisdom and virtue can truly win men's devotion."
+  —Liu Bei
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Qiao Dafu
+artist_ids:
+- 74b8d1ff-74ee-4588-8002-7e7f88729ef2
+illustration_id: befee465-4c9e-4bc8-927c-a73ac0924703
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20803
+penny_rank: 14184
+prices:
+  usd: '32.49'
+  usd_foil: 
+  usd_etched: 
+  eur: '35.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10499
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Liu+Bei%2C+Lord+of+Shu&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Liu+Bei%2C+Lord+of+Shu&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Liu+Bei%2C+Lord+of+Shu
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/486?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Liu+Bei%2C+Lord+of+Shu&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liu+Bei%2C+Lord+of+Shu&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,108 @@
+---
+object: card
+id: 9b448c08-140f-41d6-aed5-ce9b68efafa9
+oracle_id: e87dd341-416c-4e93-8eb4-1519ecd2674c
+multiverse_ids:
+- 10583
+tcgplayer_id: 561
+cardmarket_id: 11279
+name: Wei Assassins
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/9b448c08-140f-41d6-aed5-ce9b68efafa9
+scryfall_uri: https://scryfall.com/card/ptk/86/wei-assassins?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.jpg?1562257495
+  normal: https://cards.scryfall.io/normal/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.jpg?1562257495
+  large: https://cards.scryfall.io/large/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.jpg?1562257495
+  png: https://cards.scryfall.io/png/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.png?1562257495
+  art_crop: https://cards.scryfall.io/art_crop/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.jpg?1562257495
+  border_crop: https://cards.scryfall.io/border_crop/front/9/b/9b448c08-140f-41d6-aed5-ce9b68efafa9.jpg?1562257495
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Creature — Human Soldier Assassin
+oracle_text: When Wei Assassins enters the battlefield, target opponent chooses a
+  creature they control. Destroy that creature.
+power: '3'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9b448c08-140f-41d6-aed5-ce9b68efafa9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae87dd341-416c-4e93-8eb4-1519ecd2674c&unique=prints
+collector_number: '86'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Xu Tan
+artist_ids:
+- 7f865ed1-edcf-4a61-b178-f12f74e0f617
+illustration_id: 2fef1789-b0d9-4936-8dd6-eebd304aefeb
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23584
+prices:
+  usd: '6.73'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.45'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10583
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wei+Assassins&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wei+Assassins&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wei+Assassins
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/561?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wei+Assassins&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wei+Assassins&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

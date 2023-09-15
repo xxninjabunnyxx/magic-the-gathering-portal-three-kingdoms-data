@@ -1,0 +1,109 @@
+---
+object: card
+id: 0c59f45b-46fa-4494-9b25-cf9d3e462539
+oracle_id: ff427657-173a-4845-89af-6f0a93467130
+multiverse_ids:
+- 10601
+tcgplayer_id: 444
+cardmarket_id: 11233
+name: Council of Advisors
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/0c59f45b-46fa-4494-9b25-cf9d3e462539
+scryfall_uri: https://scryfall.com/card/ptk/40/council-of-advisors?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.jpg?1562255830
+  normal: https://cards.scryfall.io/normal/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.jpg?1562255830
+  large: https://cards.scryfall.io/large/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.jpg?1562255830
+  png: https://cards.scryfall.io/png/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.png?1562255830
+  art_crop: https://cards.scryfall.io/art_crop/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.jpg?1562255830
+  border_crop: https://cards.scryfall.io/border_crop/front/0/c/0c59f45b-46fa-4494-9b25-cf9d3e462539.jpg?1562255830
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Human Advisor
+oracle_text: When Council of Advisors enters the battlefield, draw a card.
+power: '1'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0c59f45b-46fa-4494-9b25-cf9d3e462539/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff427657-173a-4845-89af-6f0a93467130&unique=prints
+collector_number: '40'
+digital: false
+rarity: uncommon
+flavor_text: Sun Quan's long and successful rule in the years 199 to 251 was due to
+  his ability to choose and foster talented advisors and generals.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Liu Shangying
+artist_ids:
+- 6462f787-5d3f-491e-a085-f505ffbefd44
+illustration_id: bb782b85-2e41-4600-8a22-64eacb7a4321
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20657
+prices:
+  usd: '7.80'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10601
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Council+of+Advisors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Council+of+Advisors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Council+of+Advisors
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/444?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Council+of+Advisors&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Council+of+Advisors&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

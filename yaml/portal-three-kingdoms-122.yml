@@ -1,0 +1,107 @@
+---
+object: card
+id: 3c1bf210-ecdb-4b49-8504-51360c269e66
+oracle_id: 46b96552-830e-4732-9560-9872aeec858b
+multiverse_ids:
+- 10526
+tcgplayer_id: 521
+cardmarket_id: 11315
+name: Rolling Earthquake
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/3c1bf210-ecdb-4b49-8504-51360c269e66
+scryfall_uri: https://scryfall.com/card/ptk/122/rolling-earthquake?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1562256070
+  normal: https://cards.scryfall.io/normal/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1562256070
+  large: https://cards.scryfall.io/large/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1562256070
+  png: https://cards.scryfall.io/png/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.png?1562256070
+  art_crop: https://cards.scryfall.io/art_crop/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1562256070
+  border_crop: https://cards.scryfall.io/border_crop/front/3/c/3c1bf210-ecdb-4b49-8504-51360c269e66.jpg?1562256070
+mana_cost: "{X}{R}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Rolling Earthquake deals X damage to each creature without horsemanship
+  and each player.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3c1bf210-ecdb-4b49-8504-51360c269e66/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46b96552-830e-4732-9560-9872aeec858b&unique=prints
+collector_number: '122'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yang Hong
+artist_ids:
+- 4a9bbac6-55de-440a-bb65-58aedc3380ed
+illustration_id: bedbf88f-36ca-4926-86c7-a627ebd0a9d9
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3128
+penny_rank: 3690
+prices:
+  usd: '96.00'
+  usd_foil: 
+  usd_etched: 
+  eur: '42.43'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10526
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rolling+Earthquake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rolling+Earthquake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rolling+Earthquake
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/521?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rolling+Earthquake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rolling+Earthquake&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

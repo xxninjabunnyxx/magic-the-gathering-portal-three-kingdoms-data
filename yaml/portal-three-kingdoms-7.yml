@@ -1,0 +1,108 @@
+---
+object: card
+id: 8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd
+oracle_id: a1b87d5d-9493-4001-8c7e-553f40de61ea
+multiverse_ids:
+- 10597
+tcgplayer_id: 470
+cardmarket_id: 11200
+name: Guan Yu's 1,000-Li March
+lang: en
+released_at: '1999-05-01'
+uri: https://api.scryfall.com/cards/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd
+scryfall_uri: https://scryfall.com/card/ptk/7/guan-yus-1000-li-march?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.jpg?1562257048
+  normal: https://cards.scryfall.io/normal/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.jpg?1562257048
+  large: https://cards.scryfall.io/large/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.jpg?1562257048
+  png: https://cards.scryfall.io/png/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.png?1562257048
+  art_crop: https://cards.scryfall.io/art_crop/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.jpg?1562257048
+  border_crop: https://cards.scryfall.io/border_crop/front/8/f/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd.jpg?1562257048
+mana_cost: "{4}{W}{W}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: Destroy all tapped creatures.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set: ptk
+set_name: Portal Three Kingdoms
+set_type: starter
+set_uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8fa7526a-7a4e-4b3d-b96e-91f2bbf1c7bd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1b87d5d-9493-4001-8c7e-553f40de61ea&unique=prints
+collector_number: '7'
+digital: false
+rarity: rare
+flavor_text: '"He [Guan Yu] covered the ground on a thousand-*li* horse; / With dragon
+  blade he took each pass by force."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yang Guangmai
+artist_ids:
+- efbc593f-cfe8-4e97-b658-d3ecd8f00625
+illustration_id: 0e52338b-76a5-4298-b370-61691d6f2b64
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22880
+penny_rank: 13006
+prices:
+  usd: '24.69'
+  usd_foil: 
+  usd_etched: 
+  eur: '55.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10597
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Guan+Yu%27s+1%2C000-Li+March&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Guan+Yu%27s+1%2C000-Li+March&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Guan+Yu%27s+1%2C000-Li+March
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/470?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Guan+Yu%27s+1%2C000-Li+March&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Guan+Yu%27s+1%2C000-Li+March&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

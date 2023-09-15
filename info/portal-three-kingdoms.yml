@@ -1,0 +1,17 @@
+---
+object: set
+id: 2676ff2e-9d86-4b5b-b935-e84e41b0755e
+code: ptk
+tcgplayer_id: 88
+name: Portal Three Kingdoms
+uri: https://api.scryfall.com/sets/2676ff2e-9d86-4b5b-b935-e84e41b0755e
+scryfall_uri: https://scryfall.com/sets/ptk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aptk&unique=prints
+released_at: '1999-05-01'
+set_type: starter
+card_count: 180
+printed_size: 180
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ptk.svg?1694404800
